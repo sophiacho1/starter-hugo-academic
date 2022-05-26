@@ -1,7 +1,7 @@
 ---
 title: Impact of COVID-19 on Education
 
-summary: Final Project for CS 109A Data Science.
+summary: Final Project for CS 109A&#58; Data Science I.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
