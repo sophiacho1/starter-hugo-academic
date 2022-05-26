@@ -29,6 +29,8 @@ highlight_name: true
 
 &#128218; I'm a rising junior at Harvard, where I major in Computer Science and Statistics and minor in Economics. 
 
-&#128200; I'm interested in leveraging data to study topics at the intersection of technology, economics, and regulation. 
+&#128200; I'm interested in leveraging data to study topics at the intersection of technology, economics, and regulation.
+
+&#128640; I also like to keep myself involved in the start-up space. 
 
 This coming fall, I'll be a Head Teaching Fellow for CS 50, Harvard's introductory computer science course.
