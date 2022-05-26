@@ -12,7 +12,7 @@ superuser: true
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    email: scho@college.harvard.edu
   - icon: github
     icon_pack: fab
     link: https://github.com/sophiacho1
