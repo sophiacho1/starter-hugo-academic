@@ -24,9 +24,7 @@ image:
   focal_point: Right
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Website
+  - name: Website
     url: https://storymaps.arcgis.com/stories/ee584df402344a288497250fef3330f7
 url_code: ''
 url_pdf: ''
