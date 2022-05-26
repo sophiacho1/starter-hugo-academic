@@ -27,7 +27,7 @@ email: ''
 highlight_name: true
 ---
 
-&#128218; I'm a rising junior at Harvard, where I major in Computer Science and Statistics and minor in Economics. On campus, I'm a Head Teaching Fellow for CS 50, Harvard's introductory computer science course. 
+&#128218; I'm a rising junior at Harvard, where I major in Computer Science and Statistics and minor in Economics.
 
 &#128200; My main interest lies in leveraging data to study topics at the intersection of technology, economics, and regulation. To that end, I'm excited to join the New York Fed's Research and Statistics Group this summer.
 
