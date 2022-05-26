@@ -27,7 +27,7 @@ email: ''
 highlight_name: true
 ---
 
-&#128218; I'm a rising junior at Harvard College, where I major in Computer Science and Statistics and minor in Economics. 
+&#128218; I'm a rising junior at Harvard, where I major in Computer Science and Statistics and minor in Economics. 
 
 &#128200; I'm interested in leveraging data to study topics at the intersection of technology, economics, and regulation. 
 
