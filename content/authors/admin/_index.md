@@ -27,7 +27,7 @@ email: ''
 highlight_name: true
 ---
 
-&#127891; I'm a rising junior at Harvard, where I major in Computer Science and Statistics and minor in Economics.
+&#128218; I'm a rising junior at Harvard, where I major in Computer Science and Statistics and minor in Economics.
 
 &#128202; My main interest lies in leveraging data to study topics at the intersection of technology, economics, and regulation. To that end, I'm excited to join the <a href="https://www.newyorkfed.org/aboutthefed/org_rsg.html" target="_blank">New York Fed's Research & Statistics Group</a> this summer.
 
