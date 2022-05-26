@@ -29,7 +29,7 @@ highlight_name: true
 
 &#128218; I'm a rising junior at Harvard, where I major in Computer Science and Statistics and minor in Economics. 
 
-&#128200; I'm interested in leveraging data to study topics at the intersection of technology, economics, and regulation.
+&#128200; My main interest lies in leveraging data to study topics at the intersection of technology, economics, and regulation.
 
 &#128640; I also like to keep myself involved in the start-up space. I'm currently sourcing and conducting industry research for Plug and Play. Previously, I've worked at Treasure Data and Element AI.
 
