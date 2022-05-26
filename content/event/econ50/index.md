@@ -1,7 +1,7 @@
 ---
 title: A West Side Story of Upward Mobility
 
-summary: Empirical Project for ECON 50&#58; Using Big Data to Solve Economic and Social Problems
+summary: Empirical Project for EC 50&#58; Using Big Data to Solve Economic and Social Problems
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
