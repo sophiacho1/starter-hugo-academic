@@ -39,13 +39,6 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/sophiacho1/
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
@@ -54,5 +47,3 @@ highlight_name: true
 ---
 
 I'm a rising junior at Harvard College, where I major in Computer Science and Statistics and minor in Economics. I'm interested in leveraging data to study topics at the intersection of technology, economics, and regulation. This coming fall, I'll be a Head Teaching Fellow for CS 50, Harvard's introductory computer science course.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
