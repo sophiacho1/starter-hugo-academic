@@ -24,9 +24,9 @@ image:
   focal_point: Right
 
 links:
-  - icon: twitter
+  - icon: github 
     icon_pack: fab
-    name: Follow
+    name: Code
     url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
