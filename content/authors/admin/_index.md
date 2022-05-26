@@ -31,7 +31,7 @@ highlight_name: true
 
 &#128200; My main interest lies in leveraging data to study topics at the intersection of technology, economics, and regulation. To that end, I'm excited to join the New York Fed's Research and Statistics Group this summer.
 
-&#128640; I'm also fairly involved in the start-up space. I'm currently sourcing and conducting industry research for Plug and Play. Previously, I've worked at Treasure Data and Element AI.
+&#128640; I'm also fairly involved in the start-up space. I currently source and conduct industry research for Plug and Play. Previously, I've worked at Treasure Data and Element AI.
 
 This coming fall, I'll be a Head Teaching Fellow for CS 50, Harvard's introductory computer science course.
 
