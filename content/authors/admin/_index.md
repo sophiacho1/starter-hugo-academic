@@ -35,4 +35,4 @@ highlight_name: true
 
 This coming fall, I'll be a Head Teaching Fellow for CS 50, Harvard's introductory computer science course.
 
-In my free time, I enjoy playing the cello, listening to K-pop.
+In my free time, I enjoy playing the cello, listening to K-pop, and swimming.
