@@ -1,12 +1,12 @@
 ---
-title: Impact of COVID-19 on Education
+title: A West Side Story of Upward Mobility
 
 summary: Empirical Project for ECON 50&#58; Using Big Data to Solve Economic and Social Problems
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-12-10'
+date: '2022-03-21'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
