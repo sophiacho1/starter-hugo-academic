@@ -1,5 +1,5 @@
 ---
-title: Impact
+title: Impact of COVID-19 on Education
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -12,7 +12,7 @@ address:
   postcode: '94305'
   country: United States
 
-summary: Practical for CS 181 Machine Learning.
+summary: Final Project for CS 109A Data Science.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
