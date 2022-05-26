@@ -35,4 +35,4 @@ highlight_name: true
 
 &#128187; I like to stay engaged with Harvard's CS community. On campus, I serve as a Head Teaching Fellow for <a href="https://cs50.harvard.edu/college/2022/fall/" target="_blank">CS50</a> and as a <a href="https://csadvising.seas.harvard.edu/advising/pca/" target="_blank">Peer Concentration Advisor</a>.
 
-&#127911; In my free time, I enjoy playing the cello, listening to K-pop, and swimming.
+&#127880; In my free time, I enjoy playing the cello, listening to K-pop, and swimming.
