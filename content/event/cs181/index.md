@@ -1,12 +1,12 @@
 ---
 title: Classifying Sounds
 
-summary: Empirical Project for ECON 50&#58; Using Big Data to Solve Economic and Social Problems
+summary: Practical for CS 181&#58; Machine Learning
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-03-21'
+date: '2022-05-07'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
