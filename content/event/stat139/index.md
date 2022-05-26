@@ -20,7 +20,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/File:Spotify_App_Logo.svg)'
+  caption: 'Image credit: [**Spotify**](https://newsroom.spotify.com/media-kit/logo-and-brand-assets/)'
   focal_point: Right
 
 links:
