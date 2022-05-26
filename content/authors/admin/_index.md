@@ -34,7 +34,7 @@ social:
     link: '/#contact'
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/sophiacho1
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/sophiacho1/
