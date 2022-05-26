@@ -34,3 +34,5 @@ highlight_name: true
 &#128640; I also like to keep myself involved in the start-up space. I'm currently sourcing and conducting industry research for Plug and Play. Previously, I've worked at Treasure Data and Element AI.
 
 This coming fall, I'll be a Head Teaching Fellow for CS 50, Harvard's introductory computer science course.
+
+In my free time, I enjoy playing the cello.
