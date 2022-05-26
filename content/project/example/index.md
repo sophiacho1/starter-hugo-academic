@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Classifying Sounds
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
