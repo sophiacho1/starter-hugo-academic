@@ -21,7 +21,7 @@ featured: false
 
 image:
   caption: 'Image credit: [**Spotify**](https://newsroom.spotify.com/media-kit/logo-and-brand-assets/)'
-  focal_point: Left
+  focal_point: Right
 
 links:
   - icon: github
