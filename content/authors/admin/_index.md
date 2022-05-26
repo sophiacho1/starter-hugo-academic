@@ -31,6 +31,6 @@ highlight_name: true
 
 &#128200; My main interest lies in leveraging data to study topics at the intersection of technology, economics, and regulation. To that end, I'm excited to join the <a href="https://www.newyorkfed.org/aboutthefed/org_rsg.html"> New York Fed's Research & Statistics Group </a> this summer.
 
-&#128640; I'm also fairly involved in the start-up space. I currently source and conduct industry research for Plug and Play. Previously, I've worked at Treasure Data and Element AI.
+&#128640; I'm also fairly involved in the start-up space. I currently source and conduct industry research for <a href="https://www.plugandplaytechcenter.com/"> Plug and Play </a>. Previously, I've worked at Treasure Data and Element AI.
 
 &#9728;&#65039; In my free time, I enjoy playing the cello, listening to K-pop, and swimming.
