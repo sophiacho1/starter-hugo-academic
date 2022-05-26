@@ -20,7 +20,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**seeklogo**](https://seeklogo.com/vector-logo/325776/unicef)'
   focal_point: Right
 
 links:
