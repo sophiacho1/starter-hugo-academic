@@ -1,7 +1,7 @@
 ---
 title: Impact of COVID-19 on Education
 
-summary: Examined the relationship between primary and secondary school students’ internet connectivity and engagement with school, as measured by attendance rates, completion rates, and out-of-school rates, using data from <a href="https://data.unicef.org/resources/dataset/secondary-education-data/" target="_blank">UNICEF</a>. Final Project for CS 109A&#58; Data Science I. 
+summary: Examined the relationship between primary and secondary school students’ internet connectivity and engagement with school using data from <a href="https://data.unicef.org/resources/dataset/secondary-education-data/" target="_blank">UNICEF</a>. Final Project for CS 109A&#58; Data Science I. 
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
