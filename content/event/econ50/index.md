@@ -1,7 +1,7 @@
 ---
 title: A West Side Story of Upward Mobility
 
-summary: Used data from the Opportunity Atlas and NYC Department of Education to better understand the drivers of upward mobility in my childhood neighborhood of Lincoln Square. Empirical Project for ECON 50&#58; Using Big Data to Solve Economic and Social Problems.
+summary: Used data from the <a href="https://www.opportunityatlas.org/" target="_blank">Opportunity Atlas</a> and <a href="https://tools.nycenet.edu/guide/2017/" target="_blank">NYC Department of Education</a> to better understand the drivers of upward mobility in my childhood neighborhood of Lincoln Square. Empirical Project for ECON 50&#58; Using Big Data to Solve Economic and Social Problems.
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
