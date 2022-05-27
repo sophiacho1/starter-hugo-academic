@@ -1,7 +1,7 @@
 ---
 title: Impact of COVID-19 on Education
 
-summary: <font size="11px">Final Project for CS 109A&#58; Data Science I</font> <br> Is there a correlation between access to internet connectivity and out of school rates or completion rates for secondary and primary schools? Are there differences across different countries? Are there differences between urban and rural areas? Does the development of the country affect these impacts?
+summary: <font size="11px">Final Project for CS 109A&#58; Data Science I</font> <br> Is there a correlation between access to internet connectivity and out of school rates or completion rates for secondary and primary schools? Are there differences across different countries? Are there differences between urban and rural areas? Does the development of the country affect these impacts? <br> Examined the relationship between students’ internet connectivity and success at school, measured by attendance rates, completion rates, and out-of-school rates for primary and secondary schools across the globe.
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
