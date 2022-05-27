@@ -11,7 +11,7 @@ date: '2021-12-10'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-01-01T00:00:00Z'
 
 authors: []
 tags: []
