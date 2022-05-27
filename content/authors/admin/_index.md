@@ -32,7 +32,7 @@ email: ''
 highlight_name: true
 ---
 
-&#128218; I'm a rising junior at Harvard College, where I major in <a href="https://www.seas.harvard.edu/computer-science/undergraduate-program" target="_blank">Computer Science</a> and <a href="https://statistics.fas.harvard.edu/undergraduate" target="_blank">Statistics</a> and minor in <a href="https://economics.harvard.edu/undergraduate" target="_blank">Economics</a>.
+&#128218; I'm a rising junior at Harvard, where I major in <a href="https://www.seas.harvard.edu/computer-science/undergraduate-program" target="_blank">Computer Science</a> and <a href="https://statistics.fas.harvard.edu/undergraduate" target="_blank">Statistics</a> and minor in <a href="https://economics.harvard.edu/undergraduate" target="_blank">Economics</a>.
 
 &#128200; I'm primarily interested in the intersection of technology, economics, and regulation. I'm excited to join the <a href="https://www.newyorkfed.org/aboutthefed/org_rsg.html" target="_blank">New York Fed's Research & Statistics Group</a> this summer.
 
