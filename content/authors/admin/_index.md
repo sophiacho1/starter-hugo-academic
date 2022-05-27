@@ -8,7 +8,7 @@ superuser: true
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Harvard College '24
-    url: https://www.stanford.edu/
+    url: https://college.harvard.edu/
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
