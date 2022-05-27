@@ -7,7 +7,7 @@ superuser: true
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Harvard '24
+  - name: Harvard College '24
     url: https://www.stanford.edu/
 
 # Social/Academic Networking
