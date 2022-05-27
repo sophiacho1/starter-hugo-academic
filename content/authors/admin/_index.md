@@ -5,12 +5,9 @@ title: Sophia Cho
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Harvard '24
     url: https://www.stanford.edu/
 
 # Social/Academic Networking
