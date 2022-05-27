@@ -1,7 +1,7 @@
 ---
 title: Classifying Sounds
 
-summary: Trained logistic regression, k-nearest neighbors, and random forest models to classify sounds around New York City as accurately as possible. Practical for CS 181&#58; Machine Learning.
+summary: Trained logistic regression, <i>k</i>-nearest neighbors, and random forest models to classify sounds around New York City as accurately as possible. Practical for CS 181&#58; Machine Learning.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
