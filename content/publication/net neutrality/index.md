@@ -1,5 +1,5 @@
 ---
-title: 'The Federal Communications Commission’s Net Neutrality Pendulum'
+title: 'The Federal Communications Commission’s Net Neutrality Pendulum: Bipartisan Congressional Legislation Can Stop It'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
