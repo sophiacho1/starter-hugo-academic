@@ -7,7 +7,7 @@ title: 'The Federal Communications Commission’s Net Neutrality Pendulum: Bipar
 authors:
   - admin
 
-date: '2022-06-17'
+date: '2022-06-19'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
