@@ -7,7 +7,7 @@ title: 'Sexual Assault in Immersive Virtual Reality: Criminal Law Must Keep Up w
 authors:
   - admin
 
-date: '2022-06-17'
+date: '2022-03-15'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
