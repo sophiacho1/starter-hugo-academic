@@ -1,5 +1,5 @@
 ---
-title: 'The Federal Communications Commission’s Net Neutrality Pendulum'
+title: 'Sexual Assault in Immersive Virtual Reality: Criminal Law Must Keep Up with Technology'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
