@@ -7,7 +7,7 @@ title: 'The Federal Communications Commission’s Net Neutrality Pendulum'
 authors:
   - admin
 
-date: '2013-07-01T00:00:00Z'
+date: '2022-06-17'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
