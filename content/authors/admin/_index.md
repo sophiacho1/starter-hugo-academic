@@ -34,7 +34,7 @@ highlight_name: true
 
 &#128218; I'm a rising junior at Harvard, where I major in <a href="https://www.seas.harvard.edu/computer-science/undergraduate-program" target="_blank">Computer Science</a> and <a href="https://statistics.fas.harvard.edu/undergraduate" target="_blank">Statistics</a> and minor in <a href="https://economics.harvard.edu/undergraduate" target="_blank">Economics</a>.
 
-&#128200; I'm primarily interested in the intersection of technology, economics, and public policy. I'm excited to join the <a href="https://www.newyorkfed.org/aboutthefed/org_rsg.html" target="_blank">New York Fed's Research & Statistics Group</a> this summer.
+&#128200; I'm interested in the intersection of technology, economics, and public policy. I'm excited to join the <a href="https://www.newyorkfed.org/aboutthefed/org_rsg.html" target="_blank">New York Fed's Research & Statistics Group</a> this summer.
 
 &#128640; I'm also active in the start-up space. I currently source and conduct industry research for <a href="https://www.plugandplaytechcenter.com/" target="_blank">Plug and Play</a>. Previously, I've interned at <a href="https://www.treasuredata.com/" target="_blank">Treasure Data</a> and <a href="https://www.elementai.com/" target="_blank">Element AI</a>.
 
