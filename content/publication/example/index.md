@@ -20,10 +20,10 @@ publishDate: '2017-01-01T00:00:00Z'
 # publication_types: ['4']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
+publication: In *Harvard Undergraduate Law Review*
 publication_short: In *Harvard Undergraduate Law Review*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In his July 2021 Executive Order, President Biden urged the Federal Communications Commission (FCC) “to restore net neutrality rules undone by the prior administration.” Net neutrality, a term coined by Professor Tim Wu at Columbia Law School in 2002, is the network design principle that all traffic on the internet should be treated the same so that the users of a network, not the operator of the network, decide what the network is used for. The FCC’s approach to net neutrality, however, has swung back and forth as the partisan makeup of FCC leadership changes according to the presidential party. In this article, I delve into what net neutrality is, how the FCC has oscillated on net neutrality rules under different administrations in the past two decades, and how bipartisan Congressional legislation can bring this net neutrality pendulum to rest for the best interests of consumers, internet service providers, and the entire internet ecosystem.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
