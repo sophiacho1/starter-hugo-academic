@@ -38,6 +38,6 @@ highlight_name: true
 
 &#128640; I'm also active in the start-up space. I currently source and conduct industry research for <a href="https://www.plugandplaytechcenter.com/" target="_blank">Plug and Play</a>. Previously, I've interned at <a href="https://www.treasuredata.com/" target="_blank">Treasure Data</a> and <a href="https://www.elementai.com/" target="_blank">Element AI</a>.
 
-&#128187; I enjoy staying engaged with Harvard's CS community. On campus, I serve as a Head Teaching Fellow for <a href="https://cs50.harvard.edu/college/2022/fall/" target="_blank">CS50</a> and <a href="https://csadvising.seas.harvard.edu/advising/pca/" target="_blank">Peer Concentration Advisor</a>.
+&#127808; I enjoy staying engaged with Harvard's CS community. On campus, I serve as a Head Teaching Fellow for <a href="https://cs50.harvard.edu/college/2022/fall/" target="_blank">CS50</a> and <a href="https://csadvising.seas.harvard.edu/advising/pca/" target="_blank">Peer Concentration Advisor</a>.
 
 &#127853; In my free time, you can find me playing the cello, listening to K-pop, or swimming.
