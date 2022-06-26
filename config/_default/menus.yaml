@@ -5,13 +5,13 @@
 
 main:
   - name: About
-    url: 'about'
+    url: '#about'
     weight: 10
   - name: Projects
-    url: 'projects'
+    url: '#projects'
     weight: 40
   - name: Writing
-    url: 'writing'
+    url: '#writing'
     weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
