@@ -21,7 +21,7 @@ publishDate: '2017-01-01T00:00:00Z'
 
 # Publication name and optional abbreviated publication name.
 # publication: Harvard Undergraduate Law Review
-publication_short: Harvard Undergraduate Law Review
+publication_short: <i> Harvard Undergraduate Law Review </i>
 
 abstract: The rise in popularity of virtual reality (VR), spurred further by the COVID-19 pandemic, has led to a concerning increase in reports of virtual sexual assault. Under the current criminal justice system, however, virtual sexual assault is not considered a crime as there is no “real” physical contact. In this article, I argue that since immersive VR tricks users into thinking that their virtual experience is real, virtual sexual assault still feels like “real” sexual assault and has real negative psychological consequences. As providers of VR platforms are failing to confront virtual sexual assault effectively, it is imperative that legislators establish proper VR criminal law to make the virtual world a safer place for everyone. 
 
