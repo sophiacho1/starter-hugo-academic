@@ -2,7 +2,7 @@
 title: Classifying Sounds
 
 summary: Trained logistic regression, KNN, and random forest models to classify <a href="https://wp.nyu.edu/sonyc/" target="_blank">sounds around New York City</a> as accurately as possible. Practical for CS 181&#58; Machine Learning.
-abstract: 'Trained logistic regression, KNN, and random forest models to classify <a href="https://wp.nyu.edu/sonyc/" target="_blank">sounds around New York City</a> as accurately as possible. Practical for CS 181&#58; Machine Learning.'
+# abstract: 'Trained logistic regression, KNN, and random forest models to classify <a href="https://wp.nyu.edu/sonyc/" target="_blank">sounds around New York City</a> as accurately as possible. Practical for CS 181&#58; Machine Learning.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
