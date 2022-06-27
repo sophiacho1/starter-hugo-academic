@@ -6,9 +6,9 @@ abstract: 'Trained logistic regression, KNN, and random forest models to classif
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-# date: '2022-05-07'
+date: '2022-05-07'
 # date_end: '2030-06-01T15:00:00Z'
-# all_day: true
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
